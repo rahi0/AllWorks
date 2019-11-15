@@ -1,0 +1,32 @@
+name: flutter_client_php_backend
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.6.1
+  shared_preferences: ^0.4.3
+  json_annotation: ^2.0.0
+  cupertino_icons: ^0.1.2
+  http: ^0.12.0
+
+flutter_icons:
+  image_path: "assets/images/ic_launcher.png"
+  android: true
+  ios: true
+
+dev_dependencies:
+  build_runner: ^1.1.2
+  json_serializable: ^2.0.0
+
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/ic_launcher.png

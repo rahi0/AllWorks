@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "543708823860",
+    "firebase_url": "https://onesignalexample-f6dc9.firebaseio.com",
+    "project_id": "onesignalexample-f6dc9",
+    "storage_bucket": "onesignalexample-f6dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543708823860:android:e61361f0c9575251",
+        "android_client_info": {
+          "package_name": "com.example.sending_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543708823860-eifj6fql7dcn3l44ksau0prgdc6ahugn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC328D79rcnDSn1WqQxRcwLxElcO2o58yA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
